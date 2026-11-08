@@ -63,8 +63,6 @@ Algorithm MergeSort(A, left, right)
 end
 
 Algorithm Merge(A, left, mid, right)
-    // ترکیب و مرتب‌سازی دو زیرآرایه چپ و راست در آرایه اصلی
-    // با استفاده از دو پوینتر برای مقایسه عناصر دو بخش
 end
 
 
